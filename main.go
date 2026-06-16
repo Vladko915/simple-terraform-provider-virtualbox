@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
-	"terraform-provider-vbox/internal/provider"
+	"simple-terraform-provider-virtualbox/internal/provider"
 )
 
 func main() {
