@@ -1,4 +1,4 @@
-module terraform-provider-vbox
+module simple-terraform-provider-virtualbox
 
 go 1.26.4
 
